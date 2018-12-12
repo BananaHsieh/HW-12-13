@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\107360211_謝明璋\6.19\source\main.c(3): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\107360211_謝明璋\6.19\source\main.c(14): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW.vcxproj -> C:\Users\USER\Desktop\107360211_謝明璋\6.19\HW\Debug\HW.exe
